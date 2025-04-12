@@ -1,6 +1,8 @@
 #Nate's Hidden Files
 templates
 .obsidian
+.vscode
+test
 
 # Bundler cache
 .bundle
