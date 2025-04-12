@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Test Post - 412-2025.md",
+                "file": "_posts/Test Post - 4-12-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test Post - 412-2025"
+              "title": "Test Post - 4-12-2025"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Test Post - 412-2025.md",
+                "file": "_posts/Test Post - 4-12-2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Test Post - 412-2025"
+              "title": "Backlinks for Test Post - 4-12-2025"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Test Post - 412-2025.md",
+                "file": "_posts/Test Post - 4-12-2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Test Post - 412-2025"
+              "title": "Outgoing links from Test Post - 4-12-2025"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Test Post - 412-2025.md",
+                "file": "_posts/Test Post - 4-12-2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test Post - 412-2025"
+              "title": "Outline of Test Post - 4-12-2025"
             }
           }
         ]
@@ -173,6 +173,6 @@
   "lastOpenFiles": [
     "assets/pics/prof_pic.jpeg",
     "assets/pics/b405e64c28f9720b5dbcb09a6f394b07.png",
-    "_posts/Test Post - 412-2025.md"
+    "_posts/Test Post - 4-12-2025.md"
   ]
 }
